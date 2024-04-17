@@ -1,1 +1,2 @@
-# Configuration-of-a-Secure-Web-Server
+# networking-and-data-security-project
+Networking and Data Security Project
